@@ -8,4 +8,4 @@
 
 ### 更多关于区块链、web3的技术、资讯请关注公众号：外柏叁布道者（web3_preacher)
 
-![外柏叁布道者](https://img-blog.csdnimg.cn/e4f5da3af9a549479f06b20897e6c97e.jpeg)
+![外柏叁布道者](https://github.com/rao261488647/go-contract-demo/web3_preacher.jpeg)
