@@ -8,4 +8,7 @@
 
 ### 更多关于区块链、web3的技术、资讯请关注公众号：外柏叁布道者（web3_preacher)
 
-![外柏叁布道者](https://github.com/rao261488647/go-contract-demo/web3_preacher.jpeg)
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rao261488647/go-contract-demo/main/web3_preacher.jpg" alt="美丽的风景">
+</p>
